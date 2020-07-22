@@ -1,0 +1,1 @@
+# quick-quarkus-config-hello
